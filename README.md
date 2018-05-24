@@ -1,4 +1,5 @@
 # ninja-smoothies
+A simple C.R.U.D. Vue.js application utilizing firebase for noSQL database.
 
 ## JoshuaPCarr
 Currently new to Vue.js and never heard of Firebase prior to the Udemy course. This repo is the result of following along with the Udemy course described below and only contains the first project of the course. I attempt to commit every episode to give a good understanding of what each lecture contains. The other projects in the course will have their own seperate repos under this same github account.
