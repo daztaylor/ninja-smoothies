@@ -1,9 +1,9 @@
 # ninja-smoothies
 
-##JoshuaPCarr
+## JoshuaPCarr
 Currently new to Vue.js and never heard of Firebase prior to the Udemy course. This repo is the result of following along with the Udemy course described below and only contains the first project of the course. I attempt to commit every episode to give a good understanding of what each lecture contains. The other projects in the course will have their own seperate repos under this same github account.
 
-##[Project One - Udemy \"Build Web App with Vue JS & Firebase\" - Shaun Pelling](https://www.udemy.com/build-web-apps-with-vuejs-firebase/)
+## [Project One - Udemy \"Build Web App with Vue JS & Firebase\" - Shaun Pelling](https://www.udemy.com/build-web-apps-with-vuejs-firebase/)
 
 ## Description
 If you're looking to get started building full-stack applications with Vue JS and Firebase, then look no further. In this course I'll take you from novice to ninja in Vue JS, starting out with the very basics of VueJS and then moving on towards creating fully-fledged VueJS applications. 
